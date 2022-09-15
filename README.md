@@ -5,7 +5,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 ## Resources
 - Data Source: [Citi Bike Data](https://www.citibikenyc.com/system-data), [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
-- Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2020.3.2
+- Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, Tableau Public 2022
 
 ## Results
 
@@ -15,7 +15,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 ### New York Citi Bike data visualizations for August 2019
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826309-e77f3100-1c86-11eb-8503-e40691cd6fe0.png"> 
+    <img src="https://github.com/clondon0792/Bikesharing/blob/main/Resources/Image.PNG"> 
 </p>
 
 - There were over 2.3 million rides for the month of August 2019.
@@ -27,7 +27,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 #### August Peak Hours
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826311-e8b05e00-1c86-11eb-8240-ab05bc3cb61f.png"> 
+    <img src="https://github.com/clondon0792/Bikesharing/blob/main/Resources/Image2.PNG"> 
 </p>
 
 - Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
@@ -37,7 +37,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 #### Checkout times for users
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97828088-b7865c80-1c8b-11eb-9c03-91ad942a6daa.png"> 
+    <img src="https://github.com/clondon0792/Bikesharing/blob/main/Resources/Image3.PNG"> 
 </p>
 
 - Bikes are mostly checked out for 4 to 6 hours.
@@ -46,7 +46,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 #### Checkout times by gender
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97828090-b8b78980-1c8b-11eb-947f-87486da03b73.png"> 
+    <img src="https://github.com/clondon0792/Bikesharing/blob/main/Resources/Image4.PNG"> 
 </p>
 
 - Male users take approximately 3 times more rides than the female users.
@@ -55,8 +55,8 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 #### Trips by weekday and gender
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826316-e9e18b00-1c86-11eb-814c-b558ed34335d.png">
-    <img src="https://user-images.githubusercontent.com/68669675/97826317-e9e18b00-1c86-11eb-9559-f06b93418b58.png">
+    <img src="https://github.com/clondon0792/Bikesharing/blob/main/Resources/Image5.PNG">
+    <img src="https://github.com/clondon0792/Bikesharing/blob/main/Resources/Image6.PNG">
 </p>
 
 - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
