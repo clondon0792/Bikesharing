@@ -10,7 +10,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 ## Results
 
 ### Deployed Tableau Analysis
-[Link to dashboard](https://public.tableau.com/views/NYCCitiBikeAnalysis_16040907256420/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[Link to dashboard](https://public.tableau.com/authoring/NYCBikesharing_16632768681650/NYCCitiBikeDB1#1)
 
 ### New York Citi Bike data visualizations for August 2019
 
@@ -66,7 +66,8 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 ## Summary
 The data shows high activity of the bike sharing service in New York during the month of August 2019.
-The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.\
+The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
+
 Additional analysis would be beneficial by :
 - comparing data for different months to determine trends across the year,
 - including weather data to find the correlation between the weather and the rides. 
